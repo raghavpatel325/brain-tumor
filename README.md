@@ -1,4 +1,4 @@
-# brain-tumor
+colab:- https://colab.research.google.com/drive/15L3MEyXZSHoPsaRd20WDPWHphBg7p6FW?usp=sharing
 
 This project aims to classify brain tumor images using deep learning techniques. The project is designed to be beginner-friendly and easy to understand. Here is an explanation of the project in beginner-friendly language:
 
